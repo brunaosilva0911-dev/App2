@@ -1,0 +1,6 @@
+# BrasilTV+
+# Por padrão o site NÃO é indexado em buscadores (recomendado para este tipo de projeto).
+# Para aparecer no Google, troque "Disallow: /" por "Allow: /".
+
+User-agent: *
+Disallow: /
